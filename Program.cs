@@ -16,7 +16,7 @@
             if ((X1 / X2 == Y1 / Y2))
                 Console.WriteLine("The given are straight lines   " + "Lines are Equal");
             else
-                Console.WriteLine("The given are straight lines   " +"Lines are Not Equal");
+                Console.WriteLine("The given are not straight lines   " +"Lines are Not Equal");
         }
     }
 }
